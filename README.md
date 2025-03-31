@@ -2,6 +2,12 @@ This IOS app is for embeding sites and shows them to you in fullscreen basicly i
 Here are some screenshots of the app
 
 ![Screenshot 2025-03-31 at 15 16 21](https://github.com/user-attachments/assets/03c5c308-cfe2-424f-99bd-5d17ddb2c608)
+
+
 Here how it works
 
 ![Screenshot 2025-03-31 at 15 19 28](https://github.com/user-attachments/assets/4eb2be67-af3f-4784-9f5e-53dd9371ad19)
+
+
+There is only one problem with the app and the problem is that i cant embed any site without SSL so i am working on a fix.
+

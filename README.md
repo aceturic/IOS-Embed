@@ -1,0 +1,1 @@
+This IOS app is for embeding sites and shows them to you in fullscreen basicly is impractical because you can do it with adding the site to your home screen but i wanted to share it with you what i made for first app maden with swift
